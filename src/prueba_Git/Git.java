@@ -3,5 +3,6 @@ package prueba_Git;
 public class Git {
 	public static void main(String[]args) {
 		System.out.println("Hola");
+		System.out.println("HOLA HOlA");
 	}
 }
